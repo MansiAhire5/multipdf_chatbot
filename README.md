@@ -1,6 +1,6 @@
 # Multi Document Reader and Chatbot using LangChain and OpenAI
 
-## Summary
+
 
 
 `multi-doc-chatbot.py` Can handle interacting with multiple different documents and document types (.pdf, .dox, .txt), 
