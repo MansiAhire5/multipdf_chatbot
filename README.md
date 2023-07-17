@@ -1,4 +1,4 @@
-# Financial Multi Document Reader and Chatbot using LangChain and OpenAI
+# Multi Document Reader and Chatbot using LangChain and OpenAI
 
 
 
